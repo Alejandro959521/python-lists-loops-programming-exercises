@@ -5,7 +5,3 @@ contact = {
 }
 #Your code here:
 
-for key in contact:
-    value=contact[key]
-    print(f"{key} : {value}") 
-   

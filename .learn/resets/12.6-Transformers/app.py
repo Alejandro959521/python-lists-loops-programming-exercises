@@ -6,7 +6,4 @@ incoming_ajax_data = [
     { "name": 'Bobby', "last_name": 'Mc birth' }
 ]
 
-
 #Your code go here:
-lista=list(map(lambda person: f"{person['name']} {person['last_name']}",incoming_ajax_data))
-print(lista)

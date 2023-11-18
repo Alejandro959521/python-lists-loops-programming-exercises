@@ -7,5 +7,3 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 
 
 #Your code go here:
-done_tasks=list(filter(lambda name: 'am' in name.lower(),names))
-print(done_tasks)

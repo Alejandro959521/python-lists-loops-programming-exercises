@@ -12,5 +12,4 @@ tasks = [
 
 
 #Your code go here:
-done_tasks=list(filter(lambda task: task["done"]==True ,tasks))
-print(done_tasks)
+
